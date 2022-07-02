@@ -1,0 +1,14 @@
+botToken: "XXXXXXXXXX"
+botUsername: "MiniSharkN_bot"
+cookie: "XXXXXXXX"
+dateUrl: "20080101"
+telegramUrl: "https://t.me/"
+startPageUrl: "https://www.pixiv.net/ranking.php"
+time: "09:48:00"
+chatID:
+  - aiwhg
+  - wabghrtd
+ADs:
+  - {str: "WHOER.NET", url: "https://whoer.net"}
+# 这里写上你是哪一天开始执行的, 省的哪天突然关了然后忘了日期
+# 哪一天:
