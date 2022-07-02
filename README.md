@@ -1,1 +1,3 @@
 # MiniShark
+
+Auto get photos on pixiv ranking and sent to telegram group, channal...
